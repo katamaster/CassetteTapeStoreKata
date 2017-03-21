@@ -1,0 +1,17 @@
+Bin
+bin
+obj
+_ReSharper*
+*~
+*.user
+*.suo
+*.resharper*
+*.remote.xml
+*.NOTapproved.diff
+*.rdl.data
+*.db
+*.datasource
+*.swp
+msbuild*.log
+*.orig
+
